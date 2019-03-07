@@ -1,1 +1,1 @@
-# jpa-hibernate-crud-web-mysql
+java config , jpa,mysql,service layer,DAO layer
